@@ -49,7 +49,7 @@ export function Content({ locale }: { locale: Locale }) {
       const text = (response as { text: string }).text
       setText(text)
       // await navigator.clipboard.writeText(text)
-      copy(text)
+      copy(text, { message: "Fetched!" })
       setFetchedAndCopied(true)
       toast({
         title: t("copied"),
