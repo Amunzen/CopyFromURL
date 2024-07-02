@@ -28,7 +28,7 @@ export function Popover(
     <_Popover>
       <_PopoverTrigger asChild>
         <Button variant="ghost" size="icon" className="rounded-full text-gray-500" type="button">
-          <Settings className="h-4 w-4" />
+          <Settings className="h-4 w-4" aria-label="Settings"  />
         </Button>
       </_PopoverTrigger>
       <_PopoverContent className="w-80">
