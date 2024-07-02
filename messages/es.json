@@ -3,6 +3,7 @@
   "goButton": "¡Ir!",
   "copied": "¡Copiado!",
   "copy": "Copiar",
+  "pleaseSelectCopyButton": "Por favor, haga clic en el botón Copiar en el área de texto para copiar el contenido.",
   "copiedDescription": "El texto del enlace ha sido copiado a su portapapeles. ¡Intente pegarlo!",
   "textareaPlaceholder": "El texto del enlace se mostrará aquí",
   "error": "Error",

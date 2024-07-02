@@ -6,6 +6,7 @@
   "copiedDescription": "De tekst van de link is naar uw klembord gekopieerd. Probeer het te plakken!",
   "textareaPlaceholder": "De tekst van de link wordt hier weergegeven",
   "error": "Fout",
+  "pleaseSelectCopyButton": "Klik op de Kopieer-knop in het tekstvak om het inhoud te kopiëren.",
   "unknownError": "Er is een onbekende fout opgetreden.",
   "advancedSettings": "Geavanceerde instellingen",
   "excludeTags": "Tags uitsluiten",

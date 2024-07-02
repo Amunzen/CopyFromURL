@@ -6,6 +6,7 @@
   "copiedDescription": "Il testo dal link è stato copiato negli appunti. Prova a incollarlo!",
   "textareaPlaceholder": "Il testo dal link verrà visualizzato qui",
   "error": "Errore",
+  "pleaseSelectCopyButton": "Fai clic sul pulsante Copia nell'area di testo per copiare il contenuto.",
   "unknownError": "Si è verificato un errore sconosciuto.",
   "advancedSettings": "Impostazioni avanzate",
   "excludeTags": "Escludi tag",

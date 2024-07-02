@@ -6,6 +6,7 @@
   "copiedDescription": "链接中的文本已复制到您的剪贴板。试试粘贴它！",
   "textareaPlaceholder": "链接中的文本将显示在这里",
   "error": "错误",
+  "pleaseSelectCopyButton": "请在文本框中点击复制按钮以复制内容。",
   "unknownError": "发生了未知错误。",
   "advancedSettings": "高级设置",
   "excludeTags": "排除标签",

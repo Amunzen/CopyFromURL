@@ -6,6 +6,7 @@
   "copiedDescription": "The text from the link has been copied to your clipboard. Try pasting it!",
   "textareaPlaceholder": "The text from the link will be displayed here",
   "error": "Error",
+  "pleaseSelectCopyButton": "Please push Copy button in the textarea to copy the content.",
   "unknownError": "An unknown error occurred.",
   "advancedSettings": "Advanced Settings",
   "excludeTags": "Exclude Tags",

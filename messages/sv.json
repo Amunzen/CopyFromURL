@@ -6,6 +6,7 @@
   "copiedDescription": "Texten från länken har kopierats till ditt urklipp. Försök klistra in den!",
   "textareaPlaceholder": "Texten från länken kommer att visas här",
   "error": "Fel",
+  "pleaseSelectCopyButton": "Välj Kopiera-knappen i textrutan fr att kopiera innehållet.",
   "unknownError": "Ett okänt fel uppstod.",
   "advancedSettings": "Avancerade inställningar",
   "excludeTags": "Exkludera taggar",

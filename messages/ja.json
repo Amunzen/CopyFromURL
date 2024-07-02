@@ -3,6 +3,7 @@
   "goButton": "Go!",
   "copied": "コピーしました！",
   "copy": "コピー",
+  "pleaseSelectCopyButton": "テキストエリア内のコピーボタンを押してコピーしてください。",
   "copiedDescription": "リンク先のテキストがクリップボードにコピーされました。",
   "textareaPlaceholder": "ここにリンク先のテキストが表示されます",
   "error": "エラー",

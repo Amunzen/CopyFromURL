@@ -6,6 +6,7 @@
   "copiedDescription": "Teksten fra linket er blevet kopieret til din udklipsholder. Prøv at indsætte den!",
   "textareaPlaceholder": "Teksten fra linket vil blive vist her",
   "error": "Fejl",
+  "pleaseSelectCopyButton": "Venligst tryk på Kopier-knappen i tekstområdet for at kopiere indholdet.",
   "unknownError": "Der opstod en ukendt fejl.",
   "advancedSettings": "Avancerede indstillinger",
   "excludeTags": "Udeluk tags",

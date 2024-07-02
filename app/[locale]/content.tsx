@@ -48,20 +48,24 @@ export function Content({ locale }: { locale: Locale }) {
       }
       const text = (response as { text: string }).text
       setText(text)
-      // await navigator.clipboard.writeText(text)
-      copy(text, { message: "Fetched!" })
+      await navigator.clipboard.writeText(text)
+      // copy(text, { message: "Fetched!" })
       setFetchedAndCopied(true)
       toast({
         title: t("copied"),
         description: t("copiedDescription"),
         duration: 4000,
         variant: "success"
+
       })
       setTimeout(() => setFetchedAndCopied(false), 1200)
     } catch (e) {
-      console.error(e)
-      setError(t("unknownError"))
-      setText("")
+      toast({
+        title: t("copied"),
+        description: t("pleaseSelectCopyButton"),
+        duration: 4000,
+        variant: "success"
+      })
     } finally {
       setIsLoading(false)
     }
