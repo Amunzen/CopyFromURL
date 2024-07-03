@@ -65,6 +65,7 @@ const LEGAL_LINKS = [
 
 const AUTHOR_LINKS = [
   { text: "Keisuke Nagakawa" },
+  { text: "Blog", href: "https://medium.com/@kay_20731", external: true }
 ]
 
 export function SiteFooter({
