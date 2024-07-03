@@ -36,7 +36,7 @@ export default async function Page({ params: { locale = "en" } }: PageProps) {
           </CardContent>
           <CardFooter className="flex justify-start bg-gray-100 text-sm text-foreground/50 pt-5 flex-col items-start rounded-b-3xl gap-2">
             <InfoItem icon={ShieldCheck} text={t("securityMessage")} linkHref="/privacy-policy" linkText={t("privacyPolicyLink")} external={false} />
-            <InfoItem icon={GithubIcon} text={t("openSourceMessage")} linkHref="https://github.com/Amunzen/copy-from-url" linkText="GitHub" external={true} />
+            <InfoItem icon={GithubIcon} text={t("openSourceMessage")} linkHref="https://github.com/Amunzen/CopyFromURL" linkText="GitHub" external={true} />
           </CardFooter>
         </Card>
 
