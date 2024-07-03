@@ -52,8 +52,8 @@ export function Content({ locale }: { locale: Locale }) {
       // copy(text, { message: "Fetched!" })
       setFetchedAndCopied(true)
       toast({
-        title: t("copied"),
-        description: t("copiedDescription"),
+        title: "Success!",
+        description: t("pleaseCopyFromTheTextAreaBelow"),
         duration: 4000,
         variant: "success"
 
@@ -117,8 +117,7 @@ export function Content({ locale }: { locale: Locale }) {
 
       {
         text &&
-        <Button
-          variant={"ghost"}
+        <GradientButton
           type="button"
           onClick={() => {
             copy(text)
@@ -126,10 +125,10 @@ export function Content({ locale }: { locale: Locale }) {
             setTimeout(() => setCopied(false), 1200)
           }}
           disabled={!text}
-          className="absolute right-2 bottom-2  bg-white hover:bg-white"
+          className="absolute right-2 bottom-2"
 
         >
-          <div className="flex items-center gap-2 text-foreground/70 text-sm">
+          <div className="flex items-center gap-2 text-sm">
             {copied ?
               <>
                 <CheckIcon className="w-3 h-3" />
@@ -141,7 +140,7 @@ export function Content({ locale }: { locale: Locale }) {
               </>
             }
           </div>
-        </Button>
+        </GradientButton>
       }
     </div>
   </form>

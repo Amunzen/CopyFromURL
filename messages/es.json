@@ -8,6 +8,7 @@
   "textareaPlaceholder": "El texto del enlace se mostrará aquí",
   "error": "Error",
   "unknownError": "Ocurrió un error desconocido.",
+  "pleaseCopyFromTheTextAreaBelow": "Por favor, copie del área de texto debajo.",
   "advancedSettings": "Configuración avanzada",
   "excludeTags": "Excluir etiquetas",
   "includeTags": "Incluir etiquetas",

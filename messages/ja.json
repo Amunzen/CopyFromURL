@@ -5,6 +5,7 @@
   "copy": "コピー",
   "pleaseSelectCopyButton": "テキストエリア内のコピーボタンを押してコピーしてください。",
   "copiedDescription": "リンク先のテキストがクリップボードにコピーされました。",
+  "pleaseCopyFromTheTextAreaBelow": "下記のテキストエリアからコピーしてください。",
   "textareaPlaceholder": "ここにリンク先のテキストが表示されます",
   "error": "エラー",
   "unknownError": "不明なエラーが発生しました。",

@@ -7,6 +7,7 @@
   "copiedDescription": "Le texte du lien a été copié dans votre presse-papiers. Essayez de le coller !",
   "textareaPlaceholder": "Le texte du lien sera affiché ici",
   "error": "Erreur",
+  "pleaseCopyFromTheTextAreaBelow": "Veuillez copier à partir de la zone de texte ci-dessous.",
   "unknownError": "Une erreur inconnue s'est produite.",
   "advancedSettings": "Paramètres avancés",
   "excludeTags": "Exclure les balises",

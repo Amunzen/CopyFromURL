@@ -7,6 +7,7 @@
   "copiedDescription": "Der Text aus dem Link wurde in Ihre Zwischenablage kopiert. Versuchen Sie, ihn einzufgen!",
   "textareaPlaceholder": "Der Text aus dem Link wird hier angezeigt",
   "error": "Fehler",
+  "pleaseCopyFromTheTextAreaBelow": "Bitte kopieren Sie den Text aus dem unten stehenden Textfeld.",
   "unknownError": "Ein unbekannter Fehler ist aufgetreten.",
   "advancedSettings": "Erweiterte Einstellungen",
   "excludeTags": "Tags ausschließen",

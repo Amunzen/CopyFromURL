@@ -13,6 +13,7 @@
   "includeTags": "Inkludera taggar",
   "resetButton": "Återställ",
   "saveButton": "Spara",
+  "pleaseCopyFromTheTextAreaBelow": "Välj Kopiera-knappen i textrutan fr att kopiera innehållet.",
   "securityMessage": "Vi samlar inte in, lagrar eller publicerar några urklippsdata eller kopierat innehåll.",
   "privacyPolicyLink": "Detaljer",
   "openSourceMessage": "Denna webbplats är öppen källkod.",
